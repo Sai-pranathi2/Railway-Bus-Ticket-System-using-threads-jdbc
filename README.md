@@ -3,11 +3,11 @@ This project is a simple Railway/ Bus Ticket System developed using java,Threads
 
 
 ##  Feautures
-Book Ticket
-Cancel TIcket
-View Ticket Details
-Multiple user booking using Threads
-Database storage using JDBC
+-Book Ticket
+-Cancel TIcket
+-View Ticket Details
+-Multiple user booking using Threads
+-Database storage using JDBC
 
 
 
