@@ -12,21 +12,21 @@ This project is a simple Railway/ Bus Ticket System developed using java,Threads
 
 
 ## Technologies used
-.java
-.JDBC
-.Multithreading
-.Oracle/MySQL
+- java
+- JDBC
+- Multithreading
+- Oracle/MySQL
 
 ## Software Requirements
-.Java JDK
-.Eclipse/Intelli J
-.Oracle/MYSQL
-.Git
+- Java JDK
+- Eclipse/Intelli J
+- Oracle/MYSQL
+- Git
 
 ## Hardware Requirements
-.Minimum 4GB RAM
-.500GB Hard Disk
-.Windows/Linux OS
+- Minimum 4GB RAM
+- 500GB Hard Disk
+- Windows/Linux OS
 
 ## Author
 Sai Pranathi
