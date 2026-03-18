@@ -32,3 +32,4 @@ This project is a simple Railway/ Bus Ticket System developed using java,Threads
 Sai Pranathi
 
 ## Sample Output
+<img width="1920" height="1080" alt="Screenshot 2026-03-18 080202" src="https://github.com/user-attachments/assets/700bf7a1-a2bc-407d-bdd6-65a38614a847" />
