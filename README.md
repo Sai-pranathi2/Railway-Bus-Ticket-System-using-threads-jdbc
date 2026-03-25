@@ -8,8 +8,8 @@ This project is a simple Railway/ Bus Ticket System developed using java,Threads
 - View Ticket Details
 - Multiple user booking using Threads
 - Database storage using JDBC
-
-
+## Languages used
+-java
 
 ## Technologies used
 - java
